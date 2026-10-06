@@ -1,0 +1,22 @@
+[x] terrain
+[] trees and grass
+[x] water
+[x] building
+[x] character controller
+[] macguffin
+[] story
+
+
+Tier 1: 3 req 2% bonus
+[x] coyote jump
+[x] double jump
+[x] parkour arena
+[] longer story
+[x] more buildings
+
+Tier 2: 3 req 4% bonus
+[x] ui and collectables
+[x] moving platforms
+[x] particle system
+[] better slope response
+[] character animations
